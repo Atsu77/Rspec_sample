@@ -1,0 +1,48 @@
+version: 2.1
+orbs:
+  ruby: circleci/ruby@1.1.2
+
+jobs:
+  build:
+    docker:
+      - image: circleci/ruby:2.7.2
+    working_directory: ~/Rspec_sample/src
+    steps:
+      - checkout:
+          path: ~/Rspec_sample
+      - ruby/install-deps
+
+  test:
+    docker:
+      - image: circleci/ruby:2.7.2
+    environment:
+      BUNDLE_JOBS: "3"
+      BUNDLE_RETRY: "3"
+      APP_DATABASE_HOST: "127.0.0.1"
+      RAILS_ENV: test
+    working_directory: ~/Rspec_sample/src
+    steps:
+      - checkout:
+          path: ~/Rspec_sample
+      - ruby/install-deps
+      - run:
+          name: Database setup
+          command: bundle exec rails db:migrate
+      - run:
+          name: test
+          command: bundle exec rspec 
+
+workflows:
+  version: 2
+  build_test_and_deploy:
+    jobs:
+      - build
+      - test:
+          requires:
+            - build
+      - deploy:
+          requires:
+            - test
+          filters:
+            branches:
+              only: main
