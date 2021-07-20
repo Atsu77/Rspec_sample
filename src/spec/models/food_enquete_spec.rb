@@ -11,8 +11,8 @@ RSpec.describe FoodEnquete, type: :model do
                             満足度:良い score: 3,
                             希望するプレゼント:ビール飲み放題 present_id: 1' do
         answered_enquete = FoodEnquete.find(1)
-        expect(answered_enquete.name).to eq('田中 みなみ')
-        expect(answered_enquete.mail).to eq('taro.tanaka')
+        expect(answered_enquete.name).to eq('田中 太郎')
+        expect(answered_enquete.mail).to eq('taro.tanaka@example.com')
         expect(answered_enquete.age).to eq(25)
         expect(answered_enquete.food_id).to eq(2)
         expect(answered_enquete.score).to eq(3)
