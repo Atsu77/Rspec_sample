@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/Atsu/development/rspec-sample/spec/models/food_enquete_spec.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/spec/models/food_enquete_spec.rb": {
         "lines": [
           1,
           null,
@@ -85,7 +85,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/spec/rails_helper.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/spec/rails_helper.rb": {
         "lines": [
           null,
           1,
@@ -153,7 +153,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/config/environment.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/config/environment.rb": {
         "lines": [
           null,
           1,
@@ -162,7 +162,7 @@
           1
         ]
       },
-      "/Users/Atsu/development/rspec-sample/config/application.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/config/application.rb": {
         "lines": [
           1,
           null,
@@ -207,7 +207,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/config/boot.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/config/boot.rb": {
         "lines": [
           1,
           null,
@@ -215,7 +215,7 @@
           1
         ]
       },
-      "/Users/Atsu/development/rspec-sample/config/environments/test.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/config/environments/test.rb": {
         "lines": [
           1,
           null,
@@ -279,7 +279,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/config/initializers/application_controller_renderer.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/config/initializers/application_controller_renderer.rb": {
         "lines": [
           null,
           null,
@@ -291,7 +291,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/config/initializers/assets.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/config/initializers/assets.rb": {
         "lines": [
           null,
           null,
@@ -309,7 +309,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/config/initializers/backtrace_silencers.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/config/initializers/backtrace_silencers.rb": {
         "lines": [
           null,
           null,
@@ -321,7 +321,7 @@
           1
         ]
       },
-      "/Users/Atsu/development/rspec-sample/config/initializers/content_security_policy.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/config/initializers/content_security_policy.rb": {
         "lines": [
           null,
           null,
@@ -355,7 +355,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/config/initializers/cookies_serializer.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/config/initializers/cookies_serializer.rb": {
         "lines": [
           null,
           null,
@@ -364,7 +364,7 @@
           1
         ]
       },
-      "/Users/Atsu/development/rspec-sample/config/initializers/filter_parameter_logging.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/config/initializers/filter_parameter_logging.rb": {
         "lines": [
           null,
           null,
@@ -374,7 +374,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/config/initializers/inflections.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/config/initializers/inflections.rb": {
         "lines": [
           null,
           null,
@@ -394,7 +394,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/config/initializers/mime_types.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/config/initializers/mime_types.rb": {
         "lines": [
           null,
           null,
@@ -402,7 +402,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/config/initializers/permissions_policy.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/config/initializers/permissions_policy.rb": {
         "lines": [
           null,
           null,
@@ -417,7 +417,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/config/initializers/wrap_parameters.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/config/initializers/wrap_parameters.rb": {
         "lines": [
           null,
           null,
@@ -435,7 +435,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/spec/factories/food_enquetes.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/spec/factories/food_enquetes.rb": {
         "lines": [
           1,
           1,
@@ -473,7 +473,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/spec/factories/gym_enquetes.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/spec/factories/gym_enquetes.rb": {
         "lines": [
           1,
           1,
@@ -482,8 +482,9 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/config/routes.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/config/routes.rb": {
         "lines": [
+          1,
           1,
           1,
           1,
@@ -491,25 +492,25 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/app/helpers/application_helper.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/app/helpers/application_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/app/helpers/food_enquetes_helper.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/app/helpers/food_enquetes_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/app/helpers/gym_enquetes_helper.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/app/helpers/gym_enquetes_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/spec/support/concerns/common_module.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/spec/support/concerns/common_module.rb": {
         "lines": [
           1,
           null,
@@ -608,7 +609,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/app/models/food_enquete.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/app/models/food_enquete.rb": {
         "lines": [
           1,
           1,
@@ -712,14 +713,14 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/app/models/application_record.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/app/models/application_record.rb": {
         "lines": [
           1,
           1,
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/app/models/concerns/common_module.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/app/models/concerns/common_module.rb": {
         "lines": [
           1,
           1,
@@ -783,7 +784,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/spec/models/gym_enquete_spec.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/spec/models/gym_enquete_spec.rb": {
         "lines": [
           1,
           null,
@@ -800,7 +801,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/app/models/gym_enquete.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/app/models/gym_enquete.rb": {
         "lines": [
           1,
           1,
@@ -869,7 +870,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/spec/requests/food_enquetes_spec.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/spec/requests/food_enquetes_spec.rb": {
         "lines": [
           1,
           null,
@@ -900,7 +901,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/spec/requests/gym_enquetes_spec.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/spec/requests/gym_enquetes_spec.rb": {
         "lines": [
           1,
           null,
@@ -914,7 +915,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/spec/system/food_enquetes_spec.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/spec/system/food_enquetes_spec.rb": {
         "lines": [
           1,
           null,
@@ -967,7 +968,7 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/app/controllers/food_enquetes_controller.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/app/controllers/food_enquetes_controller.rb": {
         "lines": [
           1,
           1,
@@ -1029,13 +1030,13 @@
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/app/controllers/application_controller.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/app/controllers/application_controller.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/Users/Atsu/development/rspec-sample/app/controllers/gym_enquetes_controller.rb": {
+      "/Users/Atsu/development/Rspec_sample/src/app/controllers/gym_enquetes_controller.rb": {
         "lines": [
           1,
           1,
@@ -1099,6 +1100,6 @@
         ]
       }
     },
-    "timestamp": 1626756832
+    "timestamp": 1626784655
   }
 }
